@@ -5,5 +5,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/joseph-spence-b4503955/">View my LinkedIn Profile</a>
 #show_downloads: true
 theme: jekyll-theme-minimal
-github:
-  is_project_page: false
+
+is_project_page: false
