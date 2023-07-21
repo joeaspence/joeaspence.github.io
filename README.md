@@ -1,7 +1,7 @@
-# Data Scientist
+# Selected projects in data science, machine learning and NLP
 
-### Eduction
-Physics, MPhys
+### Project 1: XXX
+- xxx
 
-### Work Experience
-UBS Wealth
+### Project 2: XXX
+- xxx
