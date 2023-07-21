@@ -1,2 +1,7 @@
-# joeaspence.github.io
-Joe Spence
+# Data Scientist
+
+### Eduction
+Physics, MPhys
+
+### Work Experience
+UBS Wealth
