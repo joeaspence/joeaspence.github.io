@@ -2,7 +2,7 @@
 
 ### Project 1: Amazon Review Opinion Miner
 - xxx
-<img src="/assets/img/Opinion_miner1.png?raw=true" />
+<img src="/assets/img/Opinion_miner2.png?raw=true" />
 [View code on Colab](https://colab.research.google.com/drive/1zILnLQoPnLT16piimskrr6zvKRHz2HQu?usp=sharing)
 
 
