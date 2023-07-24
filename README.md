@@ -11,6 +11,10 @@
 ### Project 2: Sentiment Analysis
 - xxx
 
+<img src="/assets/img/Sentiment1.png?raw=true" />
+
+[View code on Colab](https://colab.research.google.com/drive/17rThwshyOWZeLRjhbPkgRRnMWI5OqEYF?usp=sharing)
+
 ### Project 3: XXX
 - xxx
 
