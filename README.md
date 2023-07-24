@@ -26,5 +26,7 @@
 - xxx
 
 ## Skill based projects
-A selection of projects demonstrating related skills.
+A selection of projects and articles demonstrating related skills.
 - [Movie Recommendation Engine - Systems Specification](https://drive.google.com/file/d/1DuduY49RAJi62er_lgvw28330Djv2eii/view?usp=drive_link)
+- [Proposal for a new test for intelligence](https://drive.google.com/file/d/1uxegWI0Uqu1ykgSfeRBKEcBWVKezPwOg/view?usp=drive_link)
+- [AI Accountability and Respondibility in Financial Services](https://drive.google.com/file/d/1nZdUNJ8SAr2fqEAdEsP2XVh42JIYlw4Z/view?usp=drive_link)
