@@ -8,7 +8,7 @@
 [View code on Colab](https://colab.research.google.com/drive/1zILnLQoPnLT16piimskrr6zvKRHz2HQu?usp=sharing)
 
 
-### Project 2: XXX
+### Project 2: Sentiment Analysis
 - xxx
 
 ### Project 3: XXX
@@ -19,3 +19,4 @@
 
 ## Skill based projects
 A selection of projects demonstrating related skills.
+- [Movie Recommendation Engine - Systems Specification](https://drive.google.com/file/d/1DuduY49RAJi62er_lgvw28330Djv2eii/view?usp=drive_link)
