@@ -1,5 +1,7 @@
 # Selected projects in data science, machine learning and NLP
 
+---
+
 ### Project 1: Amazon Review Opinion Miner
 - xxx
 
@@ -7,6 +9,7 @@
 
 [View code on Colab](https://colab.research.google.com/drive/1zILnLQoPnLT16piimskrr6zvKRHz2HQu?usp=sharing)
 
+---
 
 ### Project 2: Sentiment Analysis
 - xxx
@@ -15,6 +18,8 @@
 
 [View code on Colab](https://colab.research.google.com/drive/17rThwshyOWZeLRjhbPkgRRnMWI5OqEYF?usp=sharing)
 
+---
+
 ### Project 3: Spam email classifier
 - xxx
 
@@ -22,8 +27,12 @@
 
 [View code on Colab](https://colab.research.google.com/drive/1S0Ulve9_pMPgE7eBZq5kA9zJJCB5qauj?usp=sharing)
 
+---
+
 ### Project 4: XXX
 - xxx
+
+---
 
 ## Skill based projects
 A selection of projects and articles demonstrating related skills.
