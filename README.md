@@ -15,8 +15,12 @@
 
 [View code on Colab](https://colab.research.google.com/drive/17rThwshyOWZeLRjhbPkgRRnMWI5OqEYF?usp=sharing)
 
-### Project 3: XXX
+### Project 3: Spam email classifier
 - xxx
+
+<img src="/assets/img/Spam1.png?raw=true" />
+
+[View code on Colab](https://colab.research.google.com/drive/1S0Ulve9_pMPgE7eBZq5kA9zJJCB5qauj?usp=sharing)
 
 ### Project 4: XXX
 - xxx
