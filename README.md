@@ -11,3 +11,6 @@
 
 ### Project 4: XXX
 - xxx
+
+## Skill based projects
+A selection of projects demonstrating related skills.
